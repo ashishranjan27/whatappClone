@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826760637801",
+    "project_id": "projectwhatappfeature",
+    "storage_bucket": "projectwhatappfeature.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826760637801:android:0622a4b1ae5b7b5965a1f8",
+        "android_client_info": {
+          "package_name": "com.example.whatappfeature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826760637801-puqueuk4tn5tev4n2rdbgnsdc4fdpuft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgIMsP9290vMa1QPsQS9I7c4X784dycU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826760637801-puqueuk4tn5tev4n2rdbgnsdc4fdpuft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
